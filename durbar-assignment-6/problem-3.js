@@ -8,3 +8,4 @@ function isValidEmail(email) {
 }
 
 console.log(isValidEmail("user@example.com"))
+console.log(isValidEmail("user@example.@com"))
